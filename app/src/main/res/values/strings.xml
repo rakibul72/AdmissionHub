@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">AdmissionHub</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string-array name="Group_names">
+
+        <item>Science</item>
+        <item>Commerce</item>
+        <item>Humanities</item>
+
+    </string-array>
+
+    <string-array name="University_names">
+
+        <item>Ahsanullah University of Science and Technology</item>
+        <item>Bangladesh University of Engineering and Technology</item>
+        <item>Shahjalal University of Science and Technology</item>
+        <item>Islamic University of Technology</item>
+        <item>University of Dhaka</item>
+        <item>Jahangirnagar University</item>
+
+    </string-array>
+
+    <string name="group1">FAQ:1 What are the minimum qualifications of Undergraduate admission?</string>
+    <string name="group2">FAQ:2 Can I apply for Undergraduate program if I appeared in HSC?</string>
+    <string name="group3">FAQ:3 From where I can collect admission form?</string>
+    <string name="group4">FAQ:4 What is the admission fee?</string>
+    <string name="group5">FAQ:5 Which documents I must submit during admission?</string>
+
+    <string-array name="group1">
+
+        <item>Ans: You have to pass SSC and HSC having atleast GPA 3.5 individually.</item>
+
+    </string-array>
+
+    <string-array name="group2">
+
+        <item>Ans: If you have not passed HSC by the time the application period for the programme begins, you are required to submit an officially certified copy of your HSC admit card and registration card.
+            Then you can sit for admission test. If you qualify in the Admission Test, you must have to submit the result of HSC exam. If your result are not published, you will not allowed to get the admission. </item>
+
+    </string-array>
+
+    <string-array name="group3">
+
+        <item>Ans: Admission Form is available at the University website.You can apply online through website.</item>
+
+    </string-array>
+
+    <string-array name="group4">
+
+        <item>Ans: Different Unibversities offer different fee structure.You can check it from respective university website.</item>
+
+    </string-array>
+
+    <string-array name="group5">
+
+        <item>Ans: Photocopies with attestation of all certificates, marks sheet, testimonials,3 copies of recent passport size and 1 copy of stamp size photograph are required</item>
+
+    </string-array>
+
+
+    <string name="guideline1">Guidelines for Mathematics</string>
+    <string name="guideline2">Guidelines for Physics</string>
+    <string name="guideline3">Guidelines for Chemistry</string>
+    <string name="guideline4">Guidelines for English</string>
+    <string name="guideline5">Guidelines for Bangla</string>
+
+
+    <string-array name="guideline1">
+
+        <item>Mathematics is the most important subject for admission test at any university.You must read the following chapters very carefully: </item>
+        <item>1. Matrix and Determinants </item>
+        <item>2. Vectors and Probability </item>
+        <item>3. Straight Lines and Circles </item>
+        <item>4. Differentiation and Integration </item>
+        <item>5. Trigonometry and Complex Number </item>
+
+    </string-array>
+
+    <string-array name="guideline2">
+
+        <item>Physics is the another most important subject for admission test at any university.You must read the following chapters very carefully: </item>
+        <item>1. Vectors and Dynamic </item>
+        <item>2. Newtonian Mechanics and Structural Properties of Matter </item>
+        <item>3. Periodic Motion,Wave,Gravitation and Ideal Gas </item>
+        <item>4. Thermodynamics,Statical Electricity and Current Electricity </item>
+        <item>5. Geometrical Optics,Semiconductor and Modern Physics </item>
+
+    </string-array>
+
+    <string-array name="guideline3">
+
+        <item>Chemistry also plays an important role for admission test at any university.You must read the following chapters very carefully: </item>
+        <item>1. Qualitative Chemistry and Chemical Changes </item>
+        <item>2. Periodic Properties and Chemical Bond </item>
+        <item>3. Organic Chemistry </item>
+        <item>4. Quantitative Chemistry and Electrochemistry </item>
+        <item>5. Environmental Chemistry </item>
+
+    </string-array>
+
+    <string-array name="guideline4">
+
+        <item>English is an important subject for admission test at some universities.You must read the following topics very carefully: </item>
+        <item>1. Vocabulary,Synonyms and Antonyms </item>
+        <item>2. Preposition,Idioms and Phrases </item>
+        <item>3. Grammatical Basics </item>
+
+    </string-array>
+
+    <string-array name="guideline5">
+
+        <item>Bangla is less important for admission tests as only a few universities includes Bangla in the exam syllabus.You must read the following topics carefully: </item>
+        <item>1. Grammatical Basics </item>
+        <item>2. Life history of some writers and poets  </item>
+        <item>For better Idea solve previous years question Banks </item>
+
+    </string-array>
+
+</resources>
